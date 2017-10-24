@@ -12,7 +12,7 @@ app.config["MAIL_SERVER"] = "smtp.139.com"
 app.config["MAIL_PORT"] = 465 
 app.config["MAIL_USE_SSL"] = True
 app.config["MAIL_USERNAME"] = 'cwei2009@139.com'
-app.config["MAIL_PASSWORD"] = 'novl4you'
+app.config["MAIL_PASSWORD"] = 'mypassword'
 
 mail.init_app(app)
  
